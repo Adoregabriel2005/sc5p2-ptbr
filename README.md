@@ -77,6 +77,11 @@ python tools/prepare_ultraiso.py
 ├── tools/
 │   ├── translate_toolkit.py  ← Pipeline principal (extract/build/inject/status)
 │   ├── translate_all.py      ← Script com todas as traduções PT-BR
+│   ├── ptm_viewer.py         ← Conversor PTM → PNG (texturas PS2)
+│   ├── search_text.py        ← Busca em textos originais e traduzidos
+│   ├── validate.py           ← Validação de traduções (encoding, tamanho)
+│   ├── status.py             ← Dashboard de progresso detalhado
+│   ├── edit_translation.py   ← Editor rápido de traduções via CLI
 │   ├── extract_textures.py   ← Extrator de texturas do CVM
 │   ├── export_text.py        ← Exportar textos em formato legível
 │   ├── prepare_ultraiso.py   ← Preparar arquivos para UltraISO
@@ -89,14 +94,51 @@ python tools/prepare_ultraiso.py
 └── iso_files/                ← Arquivos para UltraISO (gerado)
 ```
 
+## Ferramentas para Contribuidores
+
+### 🔍 Busca de texto
+```bash
+python tools/search_text.py "ulala"                    # Busca em tudo
+python tools/search_text.py "dança" --only translated  # Só nas traduções
+python tools/search_text.py --untranslated --file R01  # Ver o que falta
+```
+
+### 📊 Status do progresso
+```bash
+python tools/status.py               # Resumo com barra de progresso
+python tools/status.py --detailed    # Lista cada arquivo
+```
+
+### ✅ Validação
+```bash
+python tools/validate.py             # Verifica encoding e tamanho
+python tools/validate.py --file R01  # Validar arquivo específico
+```
+
+### ✏️ Editor rápido
+```bash
+python tools/edit_translation.py TITCAP --list       # Listar entradas
+python tools/edit_translation.py TITCAP 0 --show     # Ver entrada
+python tools/edit_translation.py TITCAP 0 "Novo Jogo" "Continuar"  # Editar
+```
+
+### 🖼️ Visualizar texturas
+```bash
+pip install Pillow
+python tools/ptm_viewer.py                            # Converte texturas com texto → PNG
+python tools/ptm_viewer.py --all                      # Converte TODAS as texturas
+python tools/ptm_viewer.py textures/com_texto/TITLE_I.PTM  # Uma específica
+```
+Os PNGs são salvos em `textures_png/`.
+
 ## Contribua! (Open Source)
 
 Este é um projeto **open source** e qualquer pessoa pode ajudar! Veja o que precisa ser feito:
 
 ### O que falta
-- 🎨 **Texturas com texto** — As imagens do jogo (tela de título, menus de pausa, loading, resultados) ainda estão em italiano. Os arquivos estão extraídos na pasta `textures/com_texto/` prontos para edição.
-- 📝 **Revisão de traduções** — Os textos já traduzidos podem ser revisados e melhorados em `translation.json`.
-- 🔧 **Conversor PTM ↔ PNG** — Precisamos de uma ferramenta para converter as texturas PS2 para PNG e de volta.
+- 🎨 **Texturas com texto** — As imagens do jogo (tela de título, menus de pausa, loading, resultados) ainda estão em italiano. Os arquivos estão extraídos na pasta `textures/com_texto/` e podem ser visualizados como PNG com `ptm_viewer.py`.
+- 📝 **Revisão de traduções** — Os textos já traduzidos podem ser revisados e melhorados (use `search_text.py` e `validate.py` para encontrar problemas).
+- 🔧 **Conversor PNG → PTM** — O `ptm_viewer.py` converte PTM→PNG, mas falta o caminho inverso para reinjetar texturas editadas.
 - 🎮 **Testes** — Testar o jogo completo no PCSX2 e reportar bugs.
 
 ### Como começar a contribuir

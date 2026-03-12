@@ -10,6 +10,9 @@ build/
 # Arquivos para UltraISO (gerados pelo prepare_ultraiso)
 iso_files/
 
+# PNGs exportados das texturas (gerados pelo ptm_viewer)
+textures_png/
+
 # ISOs
 *.iso
 *.ISO
