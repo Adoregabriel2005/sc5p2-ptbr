@@ -1,0 +1,30 @@
+=== Texturas Extraidas - Space Channel 5 Part 2 ===
+
+PASTAS:
+  com_texto/  -> Texturas que possuem variantes por idioma (contêm texto)
+                 Estas precisam ser editadas para a tradução PT-BR.
+  sem_texto/  -> Texturas gerais sem variantes de idioma.
+
+FORMATOS:
+  .PTM  -> Texture Map (formato custom PS2, contém imagens com paletas)
+  .PMV  -> Texture data (rostos de bosses, etc.)
+  .GD   -> Font data (HANFONT = kanji, ZENFONT = fontes latinas)
+  .MTP  -> Texture Pack (catálogo de figuras, etc.)
+
+TEXTURAS COM TEXTO (precisam tradução):
+  TITLE_I.PTM      -> Tela de título (italiano)
+  PAUSE_I.PTM       -> Menu de pausa
+  R00_I.PTM         -> Tela de intro/Report
+  COSROOMI.PTM      -> Sala de figurinos
+  NOWLOAD0I.PTM     -> Tela de loading (pequena)
+  NOWLOAD1I.PTM     -> Tela de loading (grande)
+  RESULT0I.PTM      -> Tela de resultados 1
+  RESULT1I.PTM      -> Tela de resultados 2
+
+COMO EDITAR:
+  1. Os arquivos PTM são texturas PS2 em formato raw
+  2. Use ferramentas como Rainbow (PS2 texture editor) ou
+     scripts custom para converter PTM <-> PNG
+  3. Edite o PNG com qualquer editor de imagem
+  4. Converta de volta para PTM mantendo o mesmo tamanho
+  5. Substitua o arquivo _I correspondente no CVM

@@ -70,9 +70,14 @@ python tools/prepare_ultraiso.py
 
 ```
 ├── translation.json          ← Banco de dados de traduções
+├── textures/
+│   ├── com_texto/            ← Texturas com texto por idioma (precisam tradução!)
+│   ├── sem_texto/            ← Texturas gerais (mapas, fontes, etc.)
+│   └── LEIA-ME.txt           ← Guia sobre os formatos de textura
 ├── tools/
 │   ├── translate_toolkit.py  ← Pipeline principal (extract/build/inject/status)
 │   ├── translate_all.py      ← Script com todas as traduções PT-BR
+│   ├── extract_textures.py   ← Extrator de texturas do CVM
 │   ├── export_text.py        ← Exportar textos em formato legível
 │   ├── prepare_ultraiso.py   ← Preparar arquivos para UltraISO
 │   ├── afs_parser.py         ← Parser de containers AFS
@@ -83,6 +88,24 @@ python tools/prepare_ultraiso.py
 ├── backup/                   ← Backup dos CVMs originais (gerado)
 └── iso_files/                ← Arquivos para UltraISO (gerado)
 ```
+
+## Contribua! (Open Source)
+
+Este é um projeto **open source** e qualquer pessoa pode ajudar! Veja o que precisa ser feito:
+
+### O que falta
+- 🎨 **Texturas com texto** — As imagens do jogo (tela de título, menus de pausa, loading, resultados) ainda estão em italiano. Os arquivos estão extraídos na pasta `textures/com_texto/` prontos para edição.
+- 📝 **Revisão de traduções** — Os textos já traduzidos podem ser revisados e melhorados em `translation.json`.
+- 🔧 **Conversor PTM ↔ PNG** — Precisamos de uma ferramenta para converter as texturas PS2 para PNG e de volta.
+- 🎮 **Testes** — Testar o jogo completo no PCSX2 e reportar bugs.
+
+### Como começar a contribuir
+1. Faça um **fork** do repositório
+2. Clone e configure o ambiente (veja instruções acima)
+3. Escolha uma tarefa e mãos à obra
+4. Envie um **Pull Request**
+
+Veja o guia completo em [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Formato Técnico
 
@@ -99,5 +122,7 @@ python tools/prepare_ultraiso.py
 - **99.8%** de cobertura
 
 ## Licença
+
+MIT License — Veja [LICENSE](LICENSE) para detalhes.
 
 Projeto de fan translation sem fins lucrativos. Space Channel 5 Part 2 © SEGA.
