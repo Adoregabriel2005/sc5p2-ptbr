@@ -59,6 +59,20 @@ python tools/translate_toolkit.py inject
 python tools/prepare_ultraiso.py
 ```
 
+## Fluxo Visual do Projeto
+
+<div align="center">
+	<img src="docs/fluxo_projeto_sc5p2.png" alt="Fluxo do Projeto Space Channel 5 PT-BR" width="420"/>
+</div>
+
+**Como funciona:**
+- A ISO original é o ponto de partida.
+- Os textos e texturas são extraídos e editados usando as ferramentas do projeto.
+- As traduções e texturas editadas podem ser aplicadas de duas formas: criando uma nova ISO traduzida ou usando o patch de texturas HD no PCSX2.
+- O usuário pode escolher o caminho mais fácil para jogar ou contribuir.
+
+> *O diagrama acima foi inspirado no visual da capa do álbum, com fundo azul, linhas curvas e setas conectando as etapas para facilitar o entendimento de quem está começando.*
+
 ### Reconstruir ISO com UltraISO
 
 1. Abra a ISO original no UltraISO
@@ -131,38 +145,25 @@ python tools/ptm_viewer.py textures/com_texto/TITLE_I.PTM  # Uma específica
 ```
 Os PNGs são salvos em `textures_png/`.
 
-## Patch de Texturas HD no PCSX2 (sem modificar a ISO)
+## Patch de Texturas HD no PCSX2 (sem mexer na ISO)
 
-É possível jogar Space Channel 5 Part 2 com texturas em alta definição no PCSX2 sem alterar a ISO do jogo. O emulador possui um sistema de substituição automática de texturas, facilitando a criação e o uso de packs HD.
+O PCSX2 (v1.7+) permite usar texturas HD facilmente: basta ativar "Texture Replacement" e colocar PNGs editados na pasta:
+- Windows: `%UserProfile%/Documents/PCSX2/textures/SCES-50612/`
+- Linux: `~/.config/PCSX2/textures/SCES-50612/`
 
-### Como funciona
-O PCSX2 (versão 1.7 ou superior) permite que você coloque arquivos PNG customizados em uma pasta específica. Sempre que o jogo carregar uma textura original, o emulador irá substituí-la pela versão PNG correspondente, se existir.
+**Como criar um pack HD:**
+1. Extraia as texturas PTM para PNG com `python tools/ptm_viewer.py --all` (salva em `textures_png/`).
+2. Edite os PNGs mantendo o nome original.
+3. Coloque os PNGs editados na pasta acima e jogue normalmente — o PCSX2 troca as texturas na hora.
 
-### Guia rápido para criar e usar um pack HD
-1. **Converter as texturas:**
-	- Use o script `tools/ptm_viewer.py --all` para extrair todas as texturas PTM como PNGs para a pasta `textures_png/`.
-2. **Editar as texturas:**
-	- Modifique os PNGs no editor de imagem de sua preferência, mantendo o nome do arquivo igual ao original.
-3. **Ativar e instalar no PCSX2:**
-	- No PCSX2, ative a opção **Texture Replacement** em Configurações > Gráficos > Textures.
-	- Copie os PNGs editados para a pasta de texturas do PCSX2:
-	  - Windows: `%UserProfile%/Documents/PCSX2/textures/SCES-50612/`
-	  - Linux: `~/.config/PCSX2/textures/SCES-50612/`
-	- O nome do arquivo deve ser idêntico ao extraído (exemplo: `TITLE_I.PTM.png`).
-4. **Jogue normalmente:**
-	- O emulador irá carregar automaticamente as texturas HD durante o jogo.
+**Resolução máxima recomendada:** até 4x a original (ex: 256x256 → 1024x1024). Acima disso pode causar bugs ou não carregar.
 
-### Recomendações de resolução
-- Para evitar bugs gráficos e travamentos, **não ultrapasse 4x a resolução original** da textura (exemplo: textura original 256x256 → máximo recomendado 1024x1024).
-- Resoluções muito altas podem causar falhas de carregamento ou artefatos visuais.
-- Mantenha a proporção e o formato (RGBA) da textura original.
+**Ferramentas úteis para tratar texturas:**
+- Edição: GIMP, Photoshop, Photopea (online)
+- Upscale: waifu2x, ESRGAN
+- Otimização PNG: PNGGauntlet, pngquant
 
-### Observações importantes
-- Esse método só funciona no PCSX2 (não é compatível com console real ou outros emuladores).
-- Packs de texturas podem ser facilmente compartilhados: basta compactar os PNGs editados e instruir o usuário a copiá-los para a pasta correta.
-- Não é necessário modificar a ISO, facilitando testes e reversão.
-
-Com isso, qualquer pessoa pode criar, testar e compartilhar texturas HD para o jogo de forma prática e segura!
+Assim, qualquer um pode criar, testar e compartilhar texturas HD sem precisar modificar a ISO!
 
 ## Contribua! (Open Source)
 
