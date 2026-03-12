@@ -1,12 +1,16 @@
 # 🇧🇷 Space Channel 5 Part 2 — Tradução PT-BR
 
+> ⚠️ **Projeto em fase inicial** — Apenas textos fora de texturas foram traduzidos até o momento. Textos embutidos em imagens/texturas do jogo ainda não foram alterados.
+
+> 🎮 **Testado apenas no PCSX2** — Não há garantia de funcionamento em console real ou outros emuladores.
+
 Tradução para **Português Brasileiro** do Space Channel 5 Part 2 (PS2 PAL Europe).
 
 ## Sobre
 
-Este projeto traduz todos os textos do jogo de Italiano para Português Brasileiro, substituindo os arquivos `_I` (Italiano) dentro dos containers CVM do jogo.
+Este projeto traduz os textos do jogo de Italiano para Português Brasileiro, substituindo os arquivos `_I` (Italiano) dentro dos containers CVM do jogo. Apenas os textos armazenados em arquivos binários (DGCP) foram extraídos e traduzidos — textos que fazem parte de texturas/imagens ainda não foram abordados.
 
-**Cobertura:** 99.8% dos textos traduzidos (4222/4230 entradas)
+**Cobertura dos textos DGCP:** 99.8% traduzidos (4222/4230 entradas)
 
 ### O que é traduzido
 
