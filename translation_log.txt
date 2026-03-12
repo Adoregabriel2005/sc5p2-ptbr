@@ -1,0 +1,772 @@
+[2026-03-11 12:33:49] ============================================================
+[2026-03-11 12:33:49] EXTRACT: Starting text extraction
+[2026-03-11 12:33:49]   Processing ch52_g.cvm...
+[2026-03-11 12:33:49]     COSCAP_E.BIN -> COSCAP_S.BIN: 104 entries
+[2026-03-11 12:33:49]     R01CAP_E.BIN -> R01CAP_S.BIN: 29 entries
+[2026-03-11 12:33:49]     R10CAP_E.BIN -> R10CAP_S.BIN: 3 entries
+[2026-03-11 12:33:49]     R11CAP_E.BIN -> R11CAP_S.BIN: 35 entries
+[2026-03-11 12:33:49]     R12CAP_E.BIN -> R12CAP_S.BIN: 97 entries
+[2026-03-11 12:33:49]     R20CAP_E.BIN -> R20CAP_S.BIN: 5 entries
+[2026-03-11 12:33:49]     R21CAP_E.BIN -> R21CAP_S.BIN: 15 entries
+[2026-03-11 12:33:49]     R22CAP_E.BIN -> R22CAP_S.BIN: 18 entries
+[2026-03-11 12:33:49]     R23CAP_E.BIN -> R23CAP_S.BIN: 22 entries
+[2026-03-11 12:33:49]     R30CAP_E.BIN -> R30CAP_S.BIN: 8 entries
+[2026-03-11 12:33:49]     R31CAP_E.BIN -> R31CAP_S.BIN: 44 entries
+[2026-03-11 12:33:49]     R40CAP_E.BIN -> R40CAP_S.BIN: 9 entries
+[2026-03-11 12:33:49]     R41CAP_E.BIN -> R41CAP_S.BIN: 9 entries
+[2026-03-11 12:33:49]     R42CAP_E.BIN -> R42CAP_S.BIN: 45 entries
+[2026-03-11 12:33:49]     R43CAP_E.BIN -> R43CAP_S.BIN: 17 entries
+[2026-03-11 12:33:49]     R44CAP_E.BIN -> R44CAP_S.BIN: 2 entries
+[2026-03-11 12:33:49]     R50CAP_E.BIN -> R50CAP_S.BIN: 1 entries
+[2026-03-11 12:33:49]     R51CAP_E.BIN -> R51CAP_S.BIN: 9 entries
+[2026-03-11 12:33:49]     R52CAP_E.BIN -> R52CAP_S.BIN: 10 entries
+[2026-03-11 12:33:49]     R60CAP_E.BIN -> R60CAP_S.BIN: 9 entries
+[2026-03-11 12:33:49]     R61CAP_E.BIN -> R61CAP_S.BIN: 19 entries
+[2026-03-11 12:33:49]     R62CAP_E.BIN -> R62CAP_S.BIN: 34 entries
+[2026-03-11 12:33:49]     TITCAP_E.BIN -> TITCAP_S.BIN: 28 entries
+[2026-03-11 12:33:49]     CTL_TEXT.AFS: 600 entries
+[2026-03-11 12:33:49]   Processing ch52_g50.cvm...
+[2026-03-11 12:33:49]     COSCAP_E.BIN -> COSCAP_S.BIN: 104 entries
+[2026-03-11 12:33:49]     R01CAP_E.BIN -> R01CAP_S.BIN: 29 entries
+[2026-03-11 12:33:49]     R10CAP_E.BIN -> R10CAP_S.BIN: 3 entries
+[2026-03-11 12:33:49]     R11CAP_E.BIN -> R11CAP_S.BIN: 35 entries
+[2026-03-11 12:33:49]     R12CAP_E.BIN -> R12CAP_S.BIN: 97 entries
+[2026-03-11 12:33:49]     R20CAP_E.BIN -> R20CAP_S.BIN: 5 entries
+[2026-03-11 12:33:49]     R21CAP_E.BIN -> R21CAP_S.BIN: 15 entries
+[2026-03-11 12:33:49]     R22CAP_E.BIN -> R22CAP_S.BIN: 18 entries
+[2026-03-11 12:33:49]     R23CAP_E.BIN -> R23CAP_S.BIN: 22 entries
+[2026-03-11 12:33:49]     R30CAP_E.BIN -> R30CAP_S.BIN: 8 entries
+[2026-03-11 12:33:49]     R31CAP_E.BIN -> R31CAP_S.BIN: 44 entries
+[2026-03-11 12:33:49]     R40CAP_E.BIN -> R40CAP_S.BIN: 9 entries
+[2026-03-11 12:33:49]     R41CAP_E.BIN -> R41CAP_S.BIN: 9 entries
+[2026-03-11 12:33:49]     R42CAP_E.BIN -> R42CAP_S.BIN: 45 entries
+[2026-03-11 12:33:49]     R43CAP_E.BIN -> R43CAP_S.BIN: 17 entries
+[2026-03-11 12:33:49]     R44CAP_E.BIN -> R44CAP_S.BIN: 2 entries
+[2026-03-11 12:33:49]     R50CAP_E.BIN -> R50CAP_S.BIN: 1 entries
+[2026-03-11 12:33:49]     R51CAP_E.BIN -> R51CAP_S.BIN: 9 entries
+[2026-03-11 12:33:49]     R52CAP_E.BIN -> R52CAP_S.BIN: 10 entries
+[2026-03-11 12:33:49]     R60CAP_E.BIN -> R60CAP_S.BIN: 9 entries
+[2026-03-11 12:33:49]     R61CAP_E.BIN -> R61CAP_S.BIN: 19 entries
+[2026-03-11 12:33:49]     R62CAP_E.BIN -> R62CAP_S.BIN: 34 entries
+[2026-03-11 12:33:49]     TITCAP_E.BIN -> TITCAP_S.BIN: 28 entries
+[2026-03-11 12:33:49]     CTL_TEXT.AFS: 600 entries
+[2026-03-11 12:33:49]     WARNCAPE.BIN -> WARNCAPS.BIN: 28 entries
+[2026-03-11 12:33:49]     WARNCAPE.BIN -> WARNCAPS.BIN: 28 entries
+[2026-03-11 12:33:49]   Total files: 50
+[2026-03-11 12:33:49]   Total strings: 3158
+[2026-03-11 12:33:49]   Saved to: C:\Users\gorigamia\Desktop\game\translation.json
+[2026-03-11 12:33:49] EXTRACT: Complete
+[2026-03-11 12:35:00] ============================================================
+[2026-03-11 12:35:00] EXTRACT: Starting text extraction
+[2026-03-11 12:35:00]   Processing ch52_g.cvm...
+[2026-03-11 12:35:00]     COSCAP_E.BIN -> COSCAP_S.BIN: 104 entries
+[2026-03-11 12:35:00]     R01CAP_E.BIN -> R01CAP_S.BIN: 29 entries
+[2026-03-11 12:35:00]     R10CAP_E.BIN -> R10CAP_S.BIN: 3 entries
+[2026-03-11 12:35:00]     R11CAP_E.BIN -> R11CAP_S.BIN: 35 entries
+[2026-03-11 12:35:00]     R12CAP_E.BIN -> R12CAP_S.BIN: 97 entries
+[2026-03-11 12:35:00]     R20CAP_E.BIN -> R20CAP_S.BIN: 5 entries
+[2026-03-11 12:35:00]     R21CAP_E.BIN -> R21CAP_S.BIN: 15 entries
+[2026-03-11 12:35:00]     R22CAP_E.BIN -> R22CAP_S.BIN: 18 entries
+[2026-03-11 12:35:00]     R23CAP_E.BIN -> R23CAP_S.BIN: 22 entries
+[2026-03-11 12:35:00]     R30CAP_E.BIN -> R30CAP_S.BIN: 8 entries
+[2026-03-11 12:35:00]     R31CAP_E.BIN -> R31CAP_S.BIN: 44 entries
+[2026-03-11 12:35:00]     R40CAP_E.BIN -> R40CAP_S.BIN: 9 entries
+[2026-03-11 12:35:00]     R41CAP_E.BIN -> R41CAP_S.BIN: 9 entries
+[2026-03-11 12:35:00]     R42CAP_E.BIN -> R42CAP_S.BIN: 45 entries
+[2026-03-11 12:35:00]     R43CAP_E.BIN -> R43CAP_S.BIN: 17 entries
+[2026-03-11 12:35:00]     R44CAP_E.BIN -> R44CAP_S.BIN: 2 entries
+[2026-03-11 12:35:00]     R50CAP_E.BIN -> R50CAP_S.BIN: 1 entries
+[2026-03-11 12:35:00]     R51CAP_E.BIN -> R51CAP_S.BIN: 9 entries
+[2026-03-11 12:35:00]     R52CAP_E.BIN -> R52CAP_S.BIN: 10 entries
+[2026-03-11 12:35:00]     R60CAP_E.BIN -> R60CAP_S.BIN: 9 entries
+[2026-03-11 12:35:00]     R61CAP_E.BIN -> R61CAP_S.BIN: 19 entries
+[2026-03-11 12:35:00]     R62CAP_E.BIN -> R62CAP_S.BIN: 34 entries
+[2026-03-11 12:35:00]     TITCAP_E.BIN -> TITCAP_S.BIN: 28 entries
+[2026-03-11 12:35:00]     CTL_TEXT.AFS: 600 entries
+[2026-03-11 12:35:00]   Processing ch52_g50.cvm...
+[2026-03-11 12:35:00]     COSCAP_E.BIN -> COSCAP_S.BIN: 104 entries
+[2026-03-11 12:35:00]     R01CAP_E.BIN -> R01CAP_S.BIN: 29 entries
+[2026-03-11 12:35:00]     R10CAP_E.BIN -> R10CAP_S.BIN: 3 entries
+[2026-03-11 12:35:00]     R11CAP_E.BIN -> R11CAP_S.BIN: 35 entries
+[2026-03-11 12:35:00]     R12CAP_E.BIN -> R12CAP_S.BIN: 97 entries
+[2026-03-11 12:35:00]     R20CAP_E.BIN -> R20CAP_S.BIN: 5 entries
+[2026-03-11 12:35:00]     R21CAP_E.BIN -> R21CAP_S.BIN: 15 entries
+[2026-03-11 12:35:00]     R22CAP_E.BIN -> R22CAP_S.BIN: 18 entries
+[2026-03-11 12:35:00]     R23CAP_E.BIN -> R23CAP_S.BIN: 22 entries
+[2026-03-11 12:35:00]     R30CAP_E.BIN -> R30CAP_S.BIN: 8 entries
+[2026-03-11 12:35:00]     R31CAP_E.BIN -> R31CAP_S.BIN: 44 entries
+[2026-03-11 12:35:00]     R40CAP_E.BIN -> R40CAP_S.BIN: 9 entries
+[2026-03-11 12:35:00]     R41CAP_E.BIN -> R41CAP_S.BIN: 9 entries
+[2026-03-11 12:35:00]     R42CAP_E.BIN -> R42CAP_S.BIN: 45 entries
+[2026-03-11 12:35:00]     R43CAP_E.BIN -> R43CAP_S.BIN: 17 entries
+[2026-03-11 12:35:00]     R44CAP_E.BIN -> R44CAP_S.BIN: 2 entries
+[2026-03-11 12:35:00]     R50CAP_E.BIN -> R50CAP_S.BIN: 1 entries
+[2026-03-11 12:35:00]     R51CAP_E.BIN -> R51CAP_S.BIN: 9 entries
+[2026-03-11 12:35:00]     R52CAP_E.BIN -> R52CAP_S.BIN: 10 entries
+[2026-03-11 12:35:00]     R60CAP_E.BIN -> R60CAP_S.BIN: 9 entries
+[2026-03-11 12:35:00]     R61CAP_E.BIN -> R61CAP_S.BIN: 19 entries
+[2026-03-11 12:35:00]     R62CAP_E.BIN -> R62CAP_S.BIN: 34 entries
+[2026-03-11 12:35:00]     TITCAP_E.BIN -> TITCAP_S.BIN: 28 entries
+[2026-03-11 12:35:00]     CTL_TEXT.AFS: 600 entries
+[2026-03-11 12:35:00]     WARNCAPE.BIN -> WARNCAPS.BIN: 28 entries
+[2026-03-11 12:35:00]     WARNCAPE.BIN -> WARNCAPS.BIN: 28 entries
+[2026-03-11 12:35:00]     MAKUCAP_S.BIN (ES->PT): 11 entries
+[2026-03-11 12:35:00]     R01VOCAP_S.BIN (ES->PT): 19 entries
+[2026-03-11 12:35:00]     R11VOCAP_S.BIN (ES->PT): 50 entries
+[2026-03-11 12:35:00]     R12VOCAP_S.BIN (ES->PT): 18 entries
+[2026-03-11 12:35:00]     R1SYCAP_S.BIN (ES->PT): 80 entries
+[2026-03-11 12:35:00]     R21VOCAP_S.BIN (ES->PT): 16 entries
+[2026-03-11 12:35:00]     R22VOCAP_S.BIN (ES->PT): 39 entries
+[2026-03-11 12:35:00]     R23VOCAP_S.BIN (ES->PT): 50 entries
+[2026-03-11 12:35:00]     R2SYCAP_S.BIN (ES->PT): 117 entries
+[2026-03-11 12:35:00]     R31VOCAP_S.BIN (ES->PT): 41 entries
+[2026-03-11 12:35:00]     R3SYCAP_S.BIN (ES->PT): 41 entries
+[2026-03-11 12:35:00]     R41VOCAP_S.BIN (ES->PT): 12 entries
+[2026-03-11 12:35:00]     R42VOCAP_S.BIN (ES->PT): 19 entries
+[2026-03-11 12:35:00]     R43VOCAP_S.BIN (ES->PT): 39 entries
+[2026-03-11 12:35:00]     R44VOCAP_S.BIN (ES->PT): 8 entries
+[2026-03-11 12:35:00]     R4SYCAP_S.BIN (ES->PT): 97 entries
+[2026-03-11 12:35:00]     R51VOCAP_S.BIN (ES->PT): 22 entries
+[2026-03-11 12:35:00]     R52VOCAP_S.BIN (ES->PT): 40 entries
+[2026-03-11 12:35:00]     R5SYCAP_S.BIN (ES->PT): 62 entries
+[2026-03-11 12:35:00]     R61VOCAP_S.BIN (ES->PT): 51 entries
+[2026-03-11 12:35:00]     R62MUCAP_S.BIN (ES->PT): 1 entries
+[2026-03-11 12:35:00]     R62VOCAP_S.BIN (ES->PT): 72 entries
+[2026-03-11 12:35:00]     R6SYCAP_S.BIN (ES->PT): 10 entries
+[2026-03-11 12:35:00]     MAKUCAP_S.BIN (ES->PT): 11 entries
+[2026-03-11 12:35:00]     R01VOCAP_S.BIN (ES->PT): 19 entries
+[2026-03-11 12:35:00]     R11VOCAP_S.BIN (ES->PT): 50 entries
+[2026-03-11 12:35:00]     R12VOCAP_S.BIN (ES->PT): 18 entries
+[2026-03-11 12:35:00]     R1SYCAP_S.BIN (ES->PT): 80 entries
+[2026-03-11 12:35:00]     R21VOCAP_S.BIN (ES->PT): 16 entries
+[2026-03-11 12:35:00]     R22VOCAP_S.BIN (ES->PT): 39 entries
+[2026-03-11 12:35:00]     R23VOCAP_S.BIN (ES->PT): 50 entries
+[2026-03-11 12:35:00]     R2SYCAP_S.BIN (ES->PT): 117 entries
+[2026-03-11 12:35:00]     R31VOCAP_S.BIN (ES->PT): 41 entries
+[2026-03-11 12:35:00]     R3SYCAP_S.BIN (ES->PT): 41 entries
+[2026-03-11 12:35:00]     R41VOCAP_S.BIN (ES->PT): 12 entries
+[2026-03-11 12:35:00]     R42VOCAP_S.BIN (ES->PT): 19 entries
+[2026-03-11 12:35:00]     R43VOCAP_S.BIN (ES->PT): 39 entries
+[2026-03-11 12:35:00]     R44VOCAP_S.BIN (ES->PT): 8 entries
+[2026-03-11 12:35:00]     R4SYCAP_S.BIN (ES->PT): 97 entries
+[2026-03-11 12:35:00]     R51VOCAP_S.BIN (ES->PT): 22 entries
+[2026-03-11 12:35:00]     R52VOCAP_S.BIN (ES->PT): 40 entries
+[2026-03-11 12:35:00]     R5SYCAP_S.BIN (ES->PT): 62 entries
+[2026-03-11 12:35:00]     R61VOCAP_S.BIN (ES->PT): 51 entries
+[2026-03-11 12:35:00]     R62MUCAP_S.BIN (ES->PT): 1 entries
+[2026-03-11 12:35:00]     R62VOCAP_S.BIN (ES->PT): 72 entries
+[2026-03-11 12:35:00]     R6SYCAP_S.BIN (ES->PT): 10 entries
+[2026-03-11 12:35:01]   Total files: 96
+[2026-03-11 12:35:01]   Total strings: 5110
+[2026-03-11 12:35:01]   Saved to: C:\Users\gorigamia\Desktop\game\translation.json
+[2026-03-11 12:35:01] EXTRACT: Complete
+[2026-03-11 12:35:53] ============================================================
+[2026-03-11 12:35:53] BUILD: Starting build process
+[2026-03-11 12:35:53]   Built: ch52_g/TITCAP_S.BIN (3709 bytes)
+[2026-03-11 12:35:53]   Built: ch52_g50/TITCAP_S.BIN (3709 bytes)
+[2026-03-11 12:35:53]   Built: ch52_g/WARNCAPS.BIN (2181 bytes)
+[2026-03-11 12:35:53]   Built: ch52_g50/WARNCAPS.BIN (2181 bytes)
+[2026-03-11 12:35:53] BUILD: Complete. 4 files built.
+[2026-03-11 12:38:27] ============================================================
+[2026-03-11 12:38:27] INJECT: Starting injection process
+[2026-03-11 12:38:27]   Creating backup: ch52_g.cvm
+[2026-03-11 12:38:29]   Backup saved to: C:\Users\gorigamia\Desktop\game\backup\ch52_g.cvm
+[2026-03-11 12:38:29]   Creating backup: ch52_g50.cvm
+[2026-03-11 12:38:31]   Backup saved to: C:\Users\gorigamia\Desktop\game\backup\ch52_g50.cvm
+[2026-03-11 12:38:31]   Injected: TITCAP_S.BIN into ch52_g.cvm (3709 bytes)
+[2026-03-11 12:38:31]   Injected: WARNCAPS.BIN into ch52_g.cvm (2181 bytes)
+[2026-03-11 12:38:31]   Injected: TITCAP_S.BIN into ch52_g50.cvm (3709 bytes)
+[2026-03-11 12:38:31]   Injected: WARNCAPS.BIN into ch52_g50.cvm (2181 bytes)
+[2026-03-11 12:38:31] INJECT: Complete. 4 files injected.
+[2026-03-12 15:11:48] ============================================================
+[2026-03-12 15:11:48] EXTRACT: Starting text extraction
+[2026-03-12 15:11:48]   Processing ch52_g.cvm...
+[2026-03-12 15:11:48]     COSCAP_E.BIN -> COSCAP_I.BIN: 104 entries
+[2026-03-12 15:11:48]     R01CAP_E.BIN -> R01CAP_I.BIN: 29 entries
+[2026-03-12 15:11:48]     R10CAP_E.BIN -> R10CAP_I.BIN: 3 entries
+[2026-03-12 15:11:48]     R11CAP_E.BIN -> R11CAP_I.BIN: 35 entries
+[2026-03-12 15:11:48]     R12CAP_E.BIN -> R12CAP_I.BIN: 97 entries
+[2026-03-12 15:11:48]     R20CAP_E.BIN -> R20CAP_I.BIN: 5 entries
+[2026-03-12 15:11:48]     R21CAP_E.BIN -> R21CAP_I.BIN: 15 entries
+[2026-03-12 15:11:48]     R22CAP_E.BIN -> R22CAP_I.BIN: 18 entries
+[2026-03-12 15:11:48]     R23CAP_E.BIN -> R23CAP_I.BIN: 22 entries
+[2026-03-12 15:11:48]     R30CAP_E.BIN -> R30CAP_I.BIN: 8 entries
+[2026-03-12 15:11:48]     R31CAP_E.BIN -> R31CAP_I.BIN: 44 entries
+[2026-03-12 15:11:48]     R40CAP_E.BIN -> R40CAP_I.BIN: 9 entries
+[2026-03-12 15:11:48]     R41CAP_E.BIN -> R41CAP_I.BIN: 9 entries
+[2026-03-12 15:11:48]     R42CAP_E.BIN -> R42CAP_I.BIN: 45 entries
+[2026-03-12 15:11:48]     R43CAP_E.BIN -> R43CAP_I.BIN: 17 entries
+[2026-03-12 15:11:48]     R44CAP_E.BIN -> R44CAP_I.BIN: 2 entries
+[2026-03-12 15:11:48]     R50CAP_E.BIN -> R50CAP_I.BIN: 1 entries
+[2026-03-12 15:11:48]     R51CAP_E.BIN -> R51CAP_I.BIN: 9 entries
+[2026-03-12 15:11:48]     R52CAP_E.BIN -> R52CAP_I.BIN: 10 entries
+[2026-03-12 15:11:48]     R60CAP_E.BIN -> R60CAP_I.BIN: 9 entries
+[2026-03-12 15:11:48]     R61CAP_E.BIN -> R61CAP_I.BIN: 19 entries
+[2026-03-12 15:11:48]     R62CAP_E.BIN -> R62CAP_I.BIN: 34 entries
+[2026-03-12 15:11:48]     TITCAP_E.BIN -> TITCAP_I.BIN: 28 entries
+[2026-03-12 15:11:48]     CTL_TEXT.AFS: 600 entries
+[2026-03-12 15:11:48]   Processing ch52_g50.cvm...
+[2026-03-12 15:11:48]     COSCAP_E.BIN -> COSCAP_I.BIN: 104 entries
+[2026-03-12 15:11:48]     R01CAP_E.BIN -> R01CAP_I.BIN: 29 entries
+[2026-03-12 15:11:48]     R10CAP_E.BIN -> R10CAP_I.BIN: 3 entries
+[2026-03-12 15:11:48]     R11CAP_E.BIN -> R11CAP_I.BIN: 35 entries
+[2026-03-12 15:11:48]     R12CAP_E.BIN -> R12CAP_I.BIN: 97 entries
+[2026-03-12 15:11:48]     R20CAP_E.BIN -> R20CAP_I.BIN: 5 entries
+[2026-03-12 15:11:48]     R21CAP_E.BIN -> R21CAP_I.BIN: 15 entries
+[2026-03-12 15:11:48]     R22CAP_E.BIN -> R22CAP_I.BIN: 18 entries
+[2026-03-12 15:11:48]     R23CAP_E.BIN -> R23CAP_I.BIN: 22 entries
+[2026-03-12 15:11:48]     R30CAP_E.BIN -> R30CAP_I.BIN: 8 entries
+[2026-03-12 15:11:48]     R31CAP_E.BIN -> R31CAP_I.BIN: 44 entries
+[2026-03-12 15:11:48]     R40CAP_E.BIN -> R40CAP_I.BIN: 9 entries
+[2026-03-12 15:11:48]     R41CAP_E.BIN -> R41CAP_I.BIN: 9 entries
+[2026-03-12 15:11:48]     R42CAP_E.BIN -> R42CAP_I.BIN: 45 entries
+[2026-03-12 15:11:48]     R43CAP_E.BIN -> R43CAP_I.BIN: 17 entries
+[2026-03-12 15:11:48]     R44CAP_E.BIN -> R44CAP_I.BIN: 2 entries
+[2026-03-12 15:11:48]     R50CAP_E.BIN -> R50CAP_I.BIN: 1 entries
+[2026-03-12 15:11:48]     R51CAP_E.BIN -> R51CAP_I.BIN: 9 entries
+[2026-03-12 15:11:48]     R52CAP_E.BIN -> R52CAP_I.BIN: 10 entries
+[2026-03-12 15:11:48]     R60CAP_E.BIN -> R60CAP_I.BIN: 9 entries
+[2026-03-12 15:11:48]     R61CAP_E.BIN -> R61CAP_I.BIN: 19 entries
+[2026-03-12 15:11:48]     R62CAP_E.BIN -> R62CAP_I.BIN: 34 entries
+[2026-03-12 15:11:48]     TITCAP_E.BIN -> TITCAP_I.BIN: 28 entries
+[2026-03-12 15:11:48]     CTL_TEXT.AFS: 600 entries
+[2026-03-12 15:11:48]     WARNCAPE.BIN -> WARNCAPI.BIN: 28 entries
+[2026-03-12 15:11:48]     WARNCAPE.BIN -> WARNCAPI.BIN: 28 entries
+[2026-03-12 15:11:48]     MAKUCAP_I.BIN (IT->PT): 11 entries
+[2026-03-12 15:11:48]     R01VOCAP_I.BIN (IT->PT): 19 entries
+[2026-03-12 15:11:48]     R11VOCAP_I.BIN (IT->PT): 50 entries
+[2026-03-12 15:11:48]     R12VOCAP_I.BIN (IT->PT): 18 entries
+[2026-03-12 15:11:48]     R1SYCAP_I.BIN (IT->PT): 80 entries
+[2026-03-12 15:11:48]     R21VOCAP_I.BIN (IT->PT): 16 entries
+[2026-03-12 15:11:48]     R22VOCAP_I.BIN (IT->PT): 39 entries
+[2026-03-12 15:11:48]     R23VOCAP_I.BIN (IT->PT): 50 entries
+[2026-03-12 15:11:48]     R2SYCAP_I.BIN (IT->PT): 117 entries
+[2026-03-12 15:11:48]     R31VOCAP_I.BIN (IT->PT): 41 entries
+[2026-03-12 15:11:48]     R3SYCAP_I.BIN (IT->PT): 41 entries
+[2026-03-12 15:11:48]     R41VOCAP_I.BIN (IT->PT): 12 entries
+[2026-03-12 15:11:48]     R42VOCAP_I.BIN (IT->PT): 19 entries
+[2026-03-12 15:11:48]     R43VOCAP_I.BIN (IT->PT): 39 entries
+[2026-03-12 15:11:48]     R44VOCAP_I.BIN (IT->PT): 8 entries
+[2026-03-12 15:11:48]     R4SYCAP_I.BIN (IT->PT): 97 entries
+[2026-03-12 15:11:48]     R51VOCAP_I.BIN (IT->PT): 22 entries
+[2026-03-12 15:11:48]     R52VOCAP_I.BIN (IT->PT): 40 entries
+[2026-03-12 15:11:48]     R5SYCAP_I.BIN (IT->PT): 62 entries
+[2026-03-12 15:11:48]     R61VOCAP_I.BIN (IT->PT): 51 entries
+[2026-03-12 15:11:48]     R62MUCAP_I.BIN (IT->PT): 1 entries
+[2026-03-12 15:11:48]     R62VOCAP_I.BIN (IT->PT): 72 entries
+[2026-03-12 15:11:48]     R6SYCAP_I.BIN (IT->PT): 10 entries
+[2026-03-12 15:11:48]     MAKUCAP_I.BIN (IT->PT): 11 entries
+[2026-03-12 15:11:48]     R01VOCAP_I.BIN (IT->PT): 19 entries
+[2026-03-12 15:11:48]     R11VOCAP_I.BIN (IT->PT): 50 entries
+[2026-03-12 15:11:48]     R12VOCAP_I.BIN (IT->PT): 18 entries
+[2026-03-12 15:11:48]     R1SYCAP_I.BIN (IT->PT): 80 entries
+[2026-03-12 15:11:48]     R21VOCAP_I.BIN (IT->PT): 16 entries
+[2026-03-12 15:11:48]     R22VOCAP_I.BIN (IT->PT): 39 entries
+[2026-03-12 15:11:48]     R23VOCAP_I.BIN (IT->PT): 50 entries
+[2026-03-12 15:11:48]     R2SYCAP_I.BIN (IT->PT): 117 entries
+[2026-03-12 15:11:48]     R31VOCAP_I.BIN (IT->PT): 41 entries
+[2026-03-12 15:11:48]     R3SYCAP_I.BIN (IT->PT): 41 entries
+[2026-03-12 15:11:48]     R41VOCAP_I.BIN (IT->PT): 12 entries
+[2026-03-12 15:11:48]     R42VOCAP_I.BIN (IT->PT): 19 entries
+[2026-03-12 15:11:48]     R43VOCAP_I.BIN (IT->PT): 39 entries
+[2026-03-12 15:11:48]     R44VOCAP_I.BIN (IT->PT): 8 entries
+[2026-03-12 15:11:48]     R4SYCAP_I.BIN (IT->PT): 97 entries
+[2026-03-12 15:11:48]     R51VOCAP_I.BIN (IT->PT): 22 entries
+[2026-03-12 15:11:48]     R52VOCAP_I.BIN (IT->PT): 40 entries
+[2026-03-12 15:11:48]     R5SYCAP_I.BIN (IT->PT): 62 entries
+[2026-03-12 15:11:48]     R61VOCAP_I.BIN (IT->PT): 51 entries
+[2026-03-12 15:11:48]     R62MUCAP_I.BIN (IT->PT): 1 entries
+[2026-03-12 15:11:48]     R62VOCAP_I.BIN (IT->PT): 72 entries
+[2026-03-12 15:11:48]     R6SYCAP_I.BIN (IT->PT): 10 entries
+[2026-03-12 15:11:48]   Total files: 96
+[2026-03-12 15:11:48]   Total strings: 5084
+[2026-03-12 15:11:48]   Saved to: C:\Users\gorigamia\Desktop\game\translation.json
+[2026-03-12 15:11:48] EXTRACT: Complete
+[2026-03-12 15:12:20] ============================================================
+[2026-03-12 15:12:20] BUILD: Starting build process
+[2026-03-12 15:12:20]   Built: ch52_g/R01CAP_I.BIN (1227 bytes)
+[2026-03-12 15:12:20]   Built: ch52_g/TITCAP_I.BIN (3685 bytes)
+[2026-03-12 15:12:20]   Built: ch52_g50/R01CAP_I.BIN (1227 bytes)
+[2026-03-12 15:12:20]   Built: ch52_g50/TITCAP_I.BIN (3685 bytes)
+[2026-03-12 15:12:20]   Built: ch52_g/WARNCAPI.BIN (2155 bytes)
+[2026-03-12 15:12:20]   Built: ch52_g50/WARNCAPI.BIN (2155 bytes)
+[2026-03-12 15:12:20] BUILD: Complete. 6 files built.
+[2026-03-12 15:12:26] ============================================================
+[2026-03-12 15:12:26] INJECT: Starting injection process
+[2026-03-12 15:12:26]   Backup already exists: ch52_g.cvm
+[2026-03-12 15:12:26]   Backup already exists: ch52_g50.cvm
+[2026-03-12 15:12:26]   Injected: R01CAP_I.BIN into ch52_g.cvm (1227 bytes)
+[2026-03-12 15:12:26]   Injected: TITCAP_I.BIN into ch52_g.cvm (3685 bytes)
+[2026-03-12 15:12:26]   Injected: WARNCAPI.BIN into ch52_g.cvm (2155 bytes)
+[2026-03-12 15:12:26]   Injected: R01CAP_I.BIN into ch52_g50.cvm (1227 bytes)
+[2026-03-12 15:12:26]   Injected: TITCAP_I.BIN into ch52_g50.cvm (3685 bytes)
+[2026-03-12 15:12:26]   Injected: WARNCAPI.BIN into ch52_g50.cvm (2155 bytes)
+[2026-03-12 15:12:26] INJECT: Complete. 6 files injected.
+[2026-03-12 15:31:52] ============================================================
+[2026-03-12 15:31:52] BUILD: Starting build process
+[2026-03-12 15:31:52]   Built: ch52_g/R01CAP_I.BIN (1227 bytes)
+[2026-03-12 15:31:52]   Built: ch52_g/TITCAP_I.BIN (3832 bytes)
+[2026-03-12 15:31:52]   Built: ch52_g50/R01CAP_I.BIN (1227 bytes)
+[2026-03-12 15:31:52]   Built: ch52_g50/TITCAP_I.BIN (3832 bytes)
+[2026-03-12 15:31:52]   Built: ch52_g/WARNCAPI.BIN (2301 bytes)
+[2026-03-12 15:31:52]   Built: ch52_g50/WARNCAPI.BIN (2301 bytes)
+[2026-03-12 15:31:52] BUILD: Complete. 6 files built.
+[2026-03-12 15:32:22] ============================================================
+[2026-03-12 15:32:22] INJECT: Starting injection process
+[2026-03-12 15:32:22]   Backup already exists: ch52_g.cvm
+[2026-03-12 15:32:22]   Backup already exists: ch52_g50.cvm
+[2026-03-12 15:32:22]   Injected: R01CAP_I.BIN into ch52_g.cvm (1227 bytes)
+[2026-03-12 15:32:22]   WARNING: TITCAP_I.BIN is 104 bytes larger than original!
+[2026-03-12 15:32:22]            Original: 3728, New: 3832
+[2026-03-12 15:32:22]            Checking if padding allows it...
+[2026-03-12 15:32:22]            OK - fits within sector allocation (2 sectors)
+[2026-03-12 15:32:22]   Injected: TITCAP_I.BIN into ch52_g.cvm (3832 bytes)
+[2026-03-12 15:32:22]   Injected: WARNCAPI.BIN into ch52_g.cvm (2301 bytes)
+[2026-03-12 15:32:22]   Injected: R01CAP_I.BIN into ch52_g50.cvm (1227 bytes)
+[2026-03-12 15:32:22]   WARNING: TITCAP_I.BIN is 104 bytes larger than original!
+[2026-03-12 15:32:22]            Original: 3728, New: 3832
+[2026-03-12 15:32:22]            Checking if padding allows it...
+[2026-03-12 15:32:22]            OK - fits within sector allocation (2 sectors)
+[2026-03-12 15:32:22]   Injected: TITCAP_I.BIN into ch52_g50.cvm (3832 bytes)
+[2026-03-12 15:32:22]   Injected: WARNCAPI.BIN into ch52_g50.cvm (2301 bytes)
+[2026-03-12 15:32:22] INJECT: Complete. 6 files injected.
+[2026-03-12 16:07:15] ============================================================
+[2026-03-12 16:07:15] BUILD: Starting build process
+[2026-03-12 16:07:15]   Built: ch52_g/COSCAP_I.BIN (12832 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R01CAP_I.BIN (1228 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R10CAP_I.BIN (177 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R11CAP_I.BIN (1371 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R12CAP_I.BIN (2377 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R20CAP_I.BIN (203 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R21CAP_I.BIN (740 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R22CAP_I.BIN (763 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R23CAP_I.BIN (901 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R30CAP_I.BIN (314 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R31CAP_I.BIN (1162 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R40CAP_I.BIN (341 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R41CAP_I.BIN (294 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R42CAP_I.BIN (1310 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R43CAP_I.BIN (797 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R44CAP_I.BIN (123 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R50CAP_I.BIN (44 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R51CAP_I.BIN (287 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R52CAP_I.BIN (436 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R60CAP_I.BIN (458 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R61CAP_I.BIN (762 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R62CAP_I.BIN (1107 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/TITCAP_I.BIN (3810 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/COSCAP_I.BIN (12832 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R01CAP_I.BIN (1228 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R10CAP_I.BIN (177 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R11CAP_I.BIN (1371 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R12CAP_I.BIN (2377 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R20CAP_I.BIN (203 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R21CAP_I.BIN (740 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R22CAP_I.BIN (763 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R23CAP_I.BIN (901 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R30CAP_I.BIN (314 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R31CAP_I.BIN (1162 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R40CAP_I.BIN (341 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R41CAP_I.BIN (294 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R42CAP_I.BIN (1310 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R43CAP_I.BIN (797 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R44CAP_I.BIN (123 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R50CAP_I.BIN (44 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R51CAP_I.BIN (287 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R52CAP_I.BIN (436 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R60CAP_I.BIN (458 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R61CAP_I.BIN (762 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R62CAP_I.BIN (1107 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/TITCAP_I.BIN (3810 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/WARNCAPI.BIN (2087 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/WARNCAPI.BIN (2087 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/MAKUCAP_I.BIN (1333 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R01VOCAP_I.BIN (393 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R11VOCAP_I.BIN (1715 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R12VOCAP_I.BIN (712 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R1SYCAP_I.BIN (2870 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R21VOCAP_I.BIN (851 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R22VOCAP_I.BIN (1144 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R23VOCAP_I.BIN (1274 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R2SYCAP_I.BIN (4021 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R31VOCAP_I.BIN (1384 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R3SYCAP_I.BIN (1438 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R41VOCAP_I.BIN (455 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R42VOCAP_I.BIN (825 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R43VOCAP_I.BIN (1469 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R44VOCAP_I.BIN (348 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R4SYCAP_I.BIN (3616 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R51VOCAP_I.BIN (557 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R52VOCAP_I.BIN (1437 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R5SYCAP_I.BIN (2107 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R61VOCAP_I.BIN (1620 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R62MUCAP_I.BIN (648 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R62VOCAP_I.BIN (2581 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g/R6SYCAP_I.BIN (270 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/MAKUCAP_I.BIN (1333 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R01VOCAP_I.BIN (393 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R11VOCAP_I.BIN (1715 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R12VOCAP_I.BIN (712 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R1SYCAP_I.BIN (2870 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R21VOCAP_I.BIN (851 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R22VOCAP_I.BIN (1144 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R23VOCAP_I.BIN (1274 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R2SYCAP_I.BIN (4021 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R31VOCAP_I.BIN (1384 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R3SYCAP_I.BIN (1438 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R41VOCAP_I.BIN (455 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R42VOCAP_I.BIN (825 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R43VOCAP_I.BIN (1469 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R44VOCAP_I.BIN (348 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R4SYCAP_I.BIN (3616 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R51VOCAP_I.BIN (557 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R52VOCAP_I.BIN (1437 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R5SYCAP_I.BIN (2107 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R61VOCAP_I.BIN (1620 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R62MUCAP_I.BIN (648 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R62VOCAP_I.BIN (2581 bytes)
+[2026-03-12 16:07:15]   Built: ch52_g50/R6SYCAP_I.BIN (270 bytes)
+[2026-03-12 16:07:15] BUILD: Complete. 94 files built.
+[2026-03-12 16:07:19] ============================================================
+[2026-03-12 16:07:19] INJECT: Starting injection process
+[2026-03-12 16:07:19]   Backup already exists: ch52_g.cvm
+[2026-03-12 16:07:19]   Backup already exists: ch52_g50.cvm
+[2026-03-12 16:07:19]   Injected: COSCAP_I.BIN into ch52_g.cvm (12832 bytes)
+[2026-03-12 16:07:19]   Injected: MAKUCAP_I.BIN into ch52_g.cvm (1333 bytes)
+[2026-03-12 16:07:19]   WARNING: R01CAP_I.BIN is 1 bytes larger than original!
+[2026-03-12 16:07:19]            Original: 1227, New: 1228
+[2026-03-12 16:07:19]            Checking if padding allows it...
+[2026-03-12 16:07:19]            OK - fits within sector allocation (1 sectors)
+[2026-03-12 16:07:19]   Injected: R01CAP_I.BIN into ch52_g.cvm (1228 bytes)
+[2026-03-12 16:07:19]   Injected: R01VOCAP_I.BIN into ch52_g.cvm (393 bytes)
+[2026-03-12 16:07:19]   WARNING: R10CAP_I.BIN is 31 bytes larger than original!
+[2026-03-12 16:07:19]            Original: 146, New: 177
+[2026-03-12 16:07:19]            Checking if padding allows it...
+[2026-03-12 16:07:19]            OK - fits within sector allocation (1 sectors)
+[2026-03-12 16:07:19]   Injected: R10CAP_I.BIN into ch52_g.cvm (177 bytes)
+[2026-03-12 16:07:19]   WARNING: R11CAP_I.BIN is 68 bytes larger than original!
+[2026-03-12 16:07:19]            Original: 1303, New: 1371
+[2026-03-12 16:07:19]            Checking if padding allows it...
+[2026-03-12 16:07:19]            OK - fits within sector allocation (1 sectors)
+[2026-03-12 16:07:19]   Injected: R11CAP_I.BIN into ch52_g.cvm (1371 bytes)
+[2026-03-12 16:07:19]   Injected: R11VOCAP_I.BIN into ch52_g.cvm (1715 bytes)
+[2026-03-12 16:07:19]   Injected: R12CAP_I.BIN into ch52_g.cvm (2377 bytes)
+[2026-03-12 16:07:19]   Injected: R12VOCAP_I.BIN into ch52_g.cvm (712 bytes)
+[2026-03-12 16:07:19]   Injected: R1SYCAP_I.BIN into ch52_g.cvm (2870 bytes)
+[2026-03-12 16:07:19]   Injected: R20CAP_I.BIN into ch52_g.cvm (203 bytes)
+[2026-03-12 16:07:19]   Injected: R21CAP_I.BIN into ch52_g.cvm (740 bytes)
+[2026-03-12 16:07:19]   Injected: R21VOCAP_I.BIN into ch52_g.cvm (851 bytes)
+[2026-03-12 16:07:19]   Injected: R22CAP_I.BIN into ch52_g.cvm (763 bytes)
+[2026-03-12 16:07:19]   Injected: R22VOCAP_I.BIN into ch52_g.cvm (1144 bytes)
+[2026-03-12 16:07:19]   Injected: R23CAP_I.BIN into ch52_g.cvm (901 bytes)
+[2026-03-12 16:07:19]   Injected: R23VOCAP_I.BIN into ch52_g.cvm (1274 bytes)
+[2026-03-12 16:07:19]   Injected: R2SYCAP_I.BIN into ch52_g.cvm (4021 bytes)
+[2026-03-12 16:07:19]   Injected: R30CAP_I.BIN into ch52_g.cvm (314 bytes)
+[2026-03-12 16:07:19]   Injected: R31CAP_I.BIN into ch52_g.cvm (1162 bytes)
+[2026-03-12 16:07:19]   Injected: R31VOCAP_I.BIN into ch52_g.cvm (1384 bytes)
+[2026-03-12 16:07:19]   Injected: R3SYCAP_I.BIN into ch52_g.cvm (1438 bytes)
+[2026-03-12 16:07:19]   WARNING: R40CAP_I.BIN is 4 bytes larger than original!
+[2026-03-12 16:07:19]            Original: 337, New: 341
+[2026-03-12 16:07:19]            Checking if padding allows it...
+[2026-03-12 16:07:19]            OK - fits within sector allocation (1 sectors)
+[2026-03-12 16:07:19]   Injected: R40CAP_I.BIN into ch52_g.cvm (341 bytes)
+[2026-03-12 16:07:19]   Injected: R41CAP_I.BIN into ch52_g.cvm (294 bytes)
+[2026-03-12 16:07:19]   WARNING: R41VOCAP_I.BIN is 17 bytes larger than original!
+[2026-03-12 16:07:19]            Original: 438, New: 455
+[2026-03-12 16:07:19]            Checking if padding allows it...
+[2026-03-12 16:07:19]            OK - fits within sector allocation (1 sectors)
+[2026-03-12 16:07:19]   Injected: R41VOCAP_I.BIN into ch52_g.cvm (455 bytes)
+[2026-03-12 16:07:19]   Injected: R42CAP_I.BIN into ch52_g.cvm (1310 bytes)
+[2026-03-12 16:07:19]   Injected: R42VOCAP_I.BIN into ch52_g.cvm (825 bytes)
+[2026-03-12 16:07:19]   Injected: R43CAP_I.BIN into ch52_g.cvm (797 bytes)
+[2026-03-12 16:07:19]   Injected: R43VOCAP_I.BIN into ch52_g.cvm (1469 bytes)
+[2026-03-12 16:07:19]   WARNING: R44CAP_I.BIN is 12 bytes larger than original!
+[2026-03-12 16:07:19]            Original: 111, New: 123
+[2026-03-12 16:07:19]            Checking if padding allows it...
+[2026-03-12 16:07:19]            OK - fits within sector allocation (1 sectors)
+[2026-03-12 16:07:19]   Injected: R44CAP_I.BIN into ch52_g.cvm (123 bytes)
+[2026-03-12 16:07:19]   Injected: R44VOCAP_I.BIN into ch52_g.cvm (348 bytes)
+[2026-03-12 16:07:19]   Injected: R4SYCAP_I.BIN into ch52_g.cvm (3616 bytes)
+[2026-03-12 16:07:19]   Injected: R50CAP_I.BIN into ch52_g.cvm (44 bytes)
+[2026-03-12 16:07:19]   Injected: R51CAP_I.BIN into ch52_g.cvm (287 bytes)
+[2026-03-12 16:07:19]   Injected: R51VOCAP_I.BIN into ch52_g.cvm (557 bytes)
+[2026-03-12 16:07:19]   Injected: R52CAP_I.BIN into ch52_g.cvm (436 bytes)
+[2026-03-12 16:07:19]   Injected: R52VOCAP_I.BIN into ch52_g.cvm (1437 bytes)
+[2026-03-12 16:07:19]   Injected: R5SYCAP_I.BIN into ch52_g.cvm (2107 bytes)
+[2026-03-12 16:07:19]   Injected: R60CAP_I.BIN into ch52_g.cvm (458 bytes)
+[2026-03-12 16:07:19]   Injected: R61CAP_I.BIN into ch52_g.cvm (762 bytes)
+[2026-03-12 16:07:19]   Injected: R61VOCAP_I.BIN into ch52_g.cvm (1620 bytes)
+[2026-03-12 16:07:19]   Injected: R62CAP_I.BIN into ch52_g.cvm (1107 bytes)
+[2026-03-12 16:07:19]   Injected: R62MUCAP_I.BIN into ch52_g.cvm (648 bytes)
+[2026-03-12 16:07:19]   Injected: R62VOCAP_I.BIN into ch52_g.cvm (2581 bytes)
+[2026-03-12 16:07:19]   Injected: R6SYCAP_I.BIN into ch52_g.cvm (270 bytes)
+[2026-03-12 16:07:19]   Injected: TITCAP_I.BIN into ch52_g.cvm (3810 bytes)
+[2026-03-12 16:07:19]   Injected: WARNCAPI.BIN into ch52_g.cvm (2087 bytes)
+[2026-03-12 16:07:19]   Injected: COSCAP_I.BIN into ch52_g50.cvm (12832 bytes)
+[2026-03-12 16:07:19]   Injected: MAKUCAP_I.BIN into ch52_g50.cvm (1333 bytes)
+[2026-03-12 16:07:19]   WARNING: R01CAP_I.BIN is 1 bytes larger than original!
+[2026-03-12 16:07:19]            Original: 1227, New: 1228
+[2026-03-12 16:07:19]            Checking if padding allows it...
+[2026-03-12 16:07:19]            OK - fits within sector allocation (1 sectors)
+[2026-03-12 16:07:19]   Injected: R01CAP_I.BIN into ch52_g50.cvm (1228 bytes)
+[2026-03-12 16:07:19]   Injected: R01VOCAP_I.BIN into ch52_g50.cvm (393 bytes)
+[2026-03-12 16:07:19]   WARNING: R10CAP_I.BIN is 31 bytes larger than original!
+[2026-03-12 16:07:19]            Original: 146, New: 177
+[2026-03-12 16:07:19]            Checking if padding allows it...
+[2026-03-12 16:07:19]            OK - fits within sector allocation (1 sectors)
+[2026-03-12 16:07:19]   Injected: R10CAP_I.BIN into ch52_g50.cvm (177 bytes)
+[2026-03-12 16:07:19]   WARNING: R11CAP_I.BIN is 68 bytes larger than original!
+[2026-03-12 16:07:19]            Original: 1303, New: 1371
+[2026-03-12 16:07:19]            Checking if padding allows it...
+[2026-03-12 16:07:19]            OK - fits within sector allocation (1 sectors)
+[2026-03-12 16:07:19]   Injected: R11CAP_I.BIN into ch52_g50.cvm (1371 bytes)
+[2026-03-12 16:07:19]   Injected: R11VOCAP_I.BIN into ch52_g50.cvm (1715 bytes)
+[2026-03-12 16:07:19]   Injected: R12CAP_I.BIN into ch52_g50.cvm (2377 bytes)
+[2026-03-12 16:07:19]   Injected: R12VOCAP_I.BIN into ch52_g50.cvm (712 bytes)
+[2026-03-12 16:07:19]   Injected: R1SYCAP_I.BIN into ch52_g50.cvm (2870 bytes)
+[2026-03-12 16:07:19]   Injected: R20CAP_I.BIN into ch52_g50.cvm (203 bytes)
+[2026-03-12 16:07:19]   Injected: R21CAP_I.BIN into ch52_g50.cvm (740 bytes)
+[2026-03-12 16:07:19]   Injected: R21VOCAP_I.BIN into ch52_g50.cvm (851 bytes)
+[2026-03-12 16:07:19]   Injected: R22CAP_I.BIN into ch52_g50.cvm (763 bytes)
+[2026-03-12 16:07:19]   Injected: R22VOCAP_I.BIN into ch52_g50.cvm (1144 bytes)
+[2026-03-12 16:07:19]   Injected: R23CAP_I.BIN into ch52_g50.cvm (901 bytes)
+[2026-03-12 16:07:19]   Injected: R23VOCAP_I.BIN into ch52_g50.cvm (1274 bytes)
+[2026-03-12 16:07:19]   Injected: R2SYCAP_I.BIN into ch52_g50.cvm (4021 bytes)
+[2026-03-12 16:07:19]   Injected: R30CAP_I.BIN into ch52_g50.cvm (314 bytes)
+[2026-03-12 16:07:19]   Injected: R31CAP_I.BIN into ch52_g50.cvm (1162 bytes)
+[2026-03-12 16:07:19]   Injected: R31VOCAP_I.BIN into ch52_g50.cvm (1384 bytes)
+[2026-03-12 16:07:19]   Injected: R3SYCAP_I.BIN into ch52_g50.cvm (1438 bytes)
+[2026-03-12 16:07:19]   WARNING: R40CAP_I.BIN is 4 bytes larger than original!
+[2026-03-12 16:07:19]            Original: 337, New: 341
+[2026-03-12 16:07:19]            Checking if padding allows it...
+[2026-03-12 16:07:19]            OK - fits within sector allocation (1 sectors)
+[2026-03-12 16:07:19]   Injected: R40CAP_I.BIN into ch52_g50.cvm (341 bytes)
+[2026-03-12 16:07:19]   Injected: R41CAP_I.BIN into ch52_g50.cvm (294 bytes)
+[2026-03-12 16:07:19]   WARNING: R41VOCAP_I.BIN is 17 bytes larger than original!
+[2026-03-12 16:07:19]            Original: 438, New: 455
+[2026-03-12 16:07:19]            Checking if padding allows it...
+[2026-03-12 16:07:19]            OK - fits within sector allocation (1 sectors)
+[2026-03-12 16:07:20]   Injected: R41VOCAP_I.BIN into ch52_g50.cvm (455 bytes)
+[2026-03-12 16:07:20]   Injected: R42CAP_I.BIN into ch52_g50.cvm (1310 bytes)
+[2026-03-12 16:07:20]   Injected: R42VOCAP_I.BIN into ch52_g50.cvm (825 bytes)
+[2026-03-12 16:07:20]   Injected: R43CAP_I.BIN into ch52_g50.cvm (797 bytes)
+[2026-03-12 16:07:20]   Injected: R43VOCAP_I.BIN into ch52_g50.cvm (1469 bytes)
+[2026-03-12 16:07:20]   WARNING: R44CAP_I.BIN is 12 bytes larger than original!
+[2026-03-12 16:07:20]            Original: 111, New: 123
+[2026-03-12 16:07:20]            Checking if padding allows it...
+[2026-03-12 16:07:20]            OK - fits within sector allocation (1 sectors)
+[2026-03-12 16:07:20]   Injected: R44CAP_I.BIN into ch52_g50.cvm (123 bytes)
+[2026-03-12 16:07:20]   Injected: R44VOCAP_I.BIN into ch52_g50.cvm (348 bytes)
+[2026-03-12 16:07:20]   Injected: R4SYCAP_I.BIN into ch52_g50.cvm (3616 bytes)
+[2026-03-12 16:07:20]   Injected: R50CAP_I.BIN into ch52_g50.cvm (44 bytes)
+[2026-03-12 16:07:20]   Injected: R51CAP_I.BIN into ch52_g50.cvm (287 bytes)
+[2026-03-12 16:07:20]   Injected: R51VOCAP_I.BIN into ch52_g50.cvm (557 bytes)
+[2026-03-12 16:07:20]   Injected: R52CAP_I.BIN into ch52_g50.cvm (436 bytes)
+[2026-03-12 16:07:20]   Injected: R52VOCAP_I.BIN into ch52_g50.cvm (1437 bytes)
+[2026-03-12 16:07:20]   Injected: R5SYCAP_I.BIN into ch52_g50.cvm (2107 bytes)
+[2026-03-12 16:07:20]   Injected: R60CAP_I.BIN into ch52_g50.cvm (458 bytes)
+[2026-03-12 16:07:20]   Injected: R61CAP_I.BIN into ch52_g50.cvm (762 bytes)
+[2026-03-12 16:07:20]   Injected: R61VOCAP_I.BIN into ch52_g50.cvm (1620 bytes)
+[2026-03-12 16:07:20]   Injected: R62CAP_I.BIN into ch52_g50.cvm (1107 bytes)
+[2026-03-12 16:07:20]   Injected: R62MUCAP_I.BIN into ch52_g50.cvm (648 bytes)
+[2026-03-12 16:07:20]   Injected: R62VOCAP_I.BIN into ch52_g50.cvm (2581 bytes)
+[2026-03-12 16:07:20]   Injected: R6SYCAP_I.BIN into ch52_g50.cvm (270 bytes)
+[2026-03-12 16:07:20]   Injected: TITCAP_I.BIN into ch52_g50.cvm (3810 bytes)
+[2026-03-12 16:07:20]   Injected: WARNCAPI.BIN into ch52_g50.cvm (2087 bytes)
+[2026-03-12 16:07:20] INJECT: Complete. 94 files injected.
+[2026-03-12 16:24:26] ============================================================
+[2026-03-12 16:24:26] BUILD: Starting build process
+[2026-03-12 16:24:26]   Built: ch52_g/COSCAP_I.BIN (12832 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R01CAP_I.BIN (1228 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R10CAP_I.BIN (177 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R11CAP_I.BIN (1371 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R12CAP_I.BIN (2377 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R20CAP_I.BIN (203 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R21CAP_I.BIN (740 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R22CAP_I.BIN (763 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R23CAP_I.BIN (901 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R30CAP_I.BIN (314 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R31CAP_I.BIN (1162 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R40CAP_I.BIN (341 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R41CAP_I.BIN (294 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R42CAP_I.BIN (1310 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R43CAP_I.BIN (797 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R44CAP_I.BIN (123 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R50CAP_I.BIN (44 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R51CAP_I.BIN (287 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R52CAP_I.BIN (436 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R60CAP_I.BIN (458 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R61CAP_I.BIN (762 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R62CAP_I.BIN (1107 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/TITCAP_I.BIN (3810 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/COSCAP_I.BIN (12832 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R01CAP_I.BIN (1228 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R10CAP_I.BIN (177 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R11CAP_I.BIN (1371 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R12CAP_I.BIN (2377 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R20CAP_I.BIN (203 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R21CAP_I.BIN (740 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R22CAP_I.BIN (763 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R23CAP_I.BIN (901 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R30CAP_I.BIN (314 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R31CAP_I.BIN (1162 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R40CAP_I.BIN (341 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R41CAP_I.BIN (294 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R42CAP_I.BIN (1310 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R43CAP_I.BIN (797 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R44CAP_I.BIN (123 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R50CAP_I.BIN (44 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R51CAP_I.BIN (287 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R52CAP_I.BIN (436 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R60CAP_I.BIN (458 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R61CAP_I.BIN (762 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R62CAP_I.BIN (1107 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/TITCAP_I.BIN (3810 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/WARNCAPI.BIN (2087 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/WARNCAPI.BIN (2087 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/MAKUCAP_I.BIN (1333 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R01VOCAP_I.BIN (393 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R11VOCAP_I.BIN (1715 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R12VOCAP_I.BIN (712 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R1SYCAP_I.BIN (2870 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R21VOCAP_I.BIN (851 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R22VOCAP_I.BIN (1144 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R23VOCAP_I.BIN (1274 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R2SYCAP_I.BIN (4021 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R31VOCAP_I.BIN (1384 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R3SYCAP_I.BIN (1438 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R41VOCAP_I.BIN (455 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R42VOCAP_I.BIN (825 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R43VOCAP_I.BIN (1469 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R44VOCAP_I.BIN (348 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R4SYCAP_I.BIN (3616 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R51VOCAP_I.BIN (557 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R52VOCAP_I.BIN (1437 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R5SYCAP_I.BIN (2107 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R61VOCAP_I.BIN (1620 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R62MUCAP_I.BIN (648 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R62VOCAP_I.BIN (2581 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g/R6SYCAP_I.BIN (270 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/MAKUCAP_I.BIN (1333 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R01VOCAP_I.BIN (393 bytes)
+[2026-03-12 16:24:26]   Built: ch52_g50/R11VOCAP_I.BIN (1715 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R12VOCAP_I.BIN (712 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R1SYCAP_I.BIN (2870 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R21VOCAP_I.BIN (851 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R22VOCAP_I.BIN (1144 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R23VOCAP_I.BIN (1274 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R2SYCAP_I.BIN (4021 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R31VOCAP_I.BIN (1384 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R3SYCAP_I.BIN (1438 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R41VOCAP_I.BIN (455 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R42VOCAP_I.BIN (825 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R43VOCAP_I.BIN (1469 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R44VOCAP_I.BIN (348 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R4SYCAP_I.BIN (3616 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R51VOCAP_I.BIN (557 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R52VOCAP_I.BIN (1437 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R5SYCAP_I.BIN (2107 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R61VOCAP_I.BIN (1620 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R62MUCAP_I.BIN (648 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R62VOCAP_I.BIN (2581 bytes)
+[2026-03-12 16:24:27]   Built: ch52_g50/R6SYCAP_I.BIN (270 bytes)
+[2026-03-12 16:24:27] BUILD: Complete. 94 files built.
+[2026-03-12 16:24:37] ============================================================
+[2026-03-12 16:24:37] INJECT: Starting injection process
+[2026-03-12 16:24:37]   Backup already exists: ch52_g.cvm
+[2026-03-12 16:24:37]   Backup already exists: ch52_g50.cvm
+[2026-03-12 16:24:37]   Injected: COSCAP_I.BIN into ch52_g.cvm (12832 bytes)
+[2026-03-12 16:24:37]   Injected: MAKUCAP_I.BIN into ch52_g.cvm (1333 bytes)
+[2026-03-12 16:24:37]   Injected: R01CAP_I.BIN into ch52_g.cvm (1228 bytes)
+[2026-03-12 16:24:37]   Injected: R01VOCAP_I.BIN into ch52_g.cvm (393 bytes)
+[2026-03-12 16:24:37]   Injected: R10CAP_I.BIN into ch52_g.cvm (177 bytes)
+[2026-03-12 16:24:37]   Injected: R11CAP_I.BIN into ch52_g.cvm (1371 bytes)
+[2026-03-12 16:24:37]   Injected: R11VOCAP_I.BIN into ch52_g.cvm (1715 bytes)
+[2026-03-12 16:24:37]   Injected: R12CAP_I.BIN into ch52_g.cvm (2377 bytes)
+[2026-03-12 16:24:37]   Injected: R12VOCAP_I.BIN into ch52_g.cvm (712 bytes)
+[2026-03-12 16:24:37]   Injected: R1SYCAP_I.BIN into ch52_g.cvm (2870 bytes)
+[2026-03-12 16:24:37]   Injected: R20CAP_I.BIN into ch52_g.cvm (203 bytes)
+[2026-03-12 16:24:37]   Injected: R21CAP_I.BIN into ch52_g.cvm (740 bytes)
+[2026-03-12 16:24:37]   Injected: R21VOCAP_I.BIN into ch52_g.cvm (851 bytes)
+[2026-03-12 16:24:37]   Injected: R22CAP_I.BIN into ch52_g.cvm (763 bytes)
+[2026-03-12 16:24:37]   Injected: R22VOCAP_I.BIN into ch52_g.cvm (1144 bytes)
+[2026-03-12 16:24:37]   Injected: R23CAP_I.BIN into ch52_g.cvm (901 bytes)
+[2026-03-12 16:24:37]   Injected: R23VOCAP_I.BIN into ch52_g.cvm (1274 bytes)
+[2026-03-12 16:24:37]   Injected: R2SYCAP_I.BIN into ch52_g.cvm (4021 bytes)
+[2026-03-12 16:24:37]   Injected: R30CAP_I.BIN into ch52_g.cvm (314 bytes)
+[2026-03-12 16:24:37]   Injected: R31CAP_I.BIN into ch52_g.cvm (1162 bytes)
+[2026-03-12 16:24:37]   Injected: R31VOCAP_I.BIN into ch52_g.cvm (1384 bytes)
+[2026-03-12 16:24:37]   Injected: R3SYCAP_I.BIN into ch52_g.cvm (1438 bytes)
+[2026-03-12 16:24:37]   Injected: R40CAP_I.BIN into ch52_g.cvm (341 bytes)
+[2026-03-12 16:24:37]   Injected: R41CAP_I.BIN into ch52_g.cvm (294 bytes)
+[2026-03-12 16:24:37]   Injected: R41VOCAP_I.BIN into ch52_g.cvm (455 bytes)
+[2026-03-12 16:24:37]   Injected: R42CAP_I.BIN into ch52_g.cvm (1310 bytes)
+[2026-03-12 16:24:37]   Injected: R42VOCAP_I.BIN into ch52_g.cvm (825 bytes)
+[2026-03-12 16:24:37]   Injected: R43CAP_I.BIN into ch52_g.cvm (797 bytes)
+[2026-03-12 16:24:37]   Injected: R43VOCAP_I.BIN into ch52_g.cvm (1469 bytes)
+[2026-03-12 16:24:37]   Injected: R44CAP_I.BIN into ch52_g.cvm (123 bytes)
+[2026-03-12 16:24:37]   Injected: R44VOCAP_I.BIN into ch52_g.cvm (348 bytes)
+[2026-03-12 16:24:37]   Injected: R4SYCAP_I.BIN into ch52_g.cvm (3616 bytes)
+[2026-03-12 16:24:37]   Injected: R50CAP_I.BIN into ch52_g.cvm (44 bytes)
+[2026-03-12 16:24:37]   Injected: R51CAP_I.BIN into ch52_g.cvm (287 bytes)
+[2026-03-12 16:24:37]   Injected: R51VOCAP_I.BIN into ch52_g.cvm (557 bytes)
+[2026-03-12 16:24:37]   Injected: R52CAP_I.BIN into ch52_g.cvm (436 bytes)
+[2026-03-12 16:24:37]   Injected: R52VOCAP_I.BIN into ch52_g.cvm (1437 bytes)
+[2026-03-12 16:24:37]   Injected: R5SYCAP_I.BIN into ch52_g.cvm (2107 bytes)
+[2026-03-12 16:24:37]   Injected: R60CAP_I.BIN into ch52_g.cvm (458 bytes)
+[2026-03-12 16:24:37]   Injected: R61CAP_I.BIN into ch52_g.cvm (762 bytes)
+[2026-03-12 16:24:37]   Injected: R61VOCAP_I.BIN into ch52_g.cvm (1620 bytes)
+[2026-03-12 16:24:37]   Injected: R62CAP_I.BIN into ch52_g.cvm (1107 bytes)
+[2026-03-12 16:24:37]   Injected: R62MUCAP_I.BIN into ch52_g.cvm (648 bytes)
+[2026-03-12 16:24:37]   Injected: R62VOCAP_I.BIN into ch52_g.cvm (2581 bytes)
+[2026-03-12 16:24:37]   Injected: R6SYCAP_I.BIN into ch52_g.cvm (270 bytes)
+[2026-03-12 16:24:37]   Injected: TITCAP_I.BIN into ch52_g.cvm (3810 bytes)
+[2026-03-12 16:24:37]   Injected: WARNCAPI.BIN into ch52_g.cvm (2087 bytes)
+[2026-03-12 16:24:37]   Injected: COSCAP_I.BIN into ch52_g50.cvm (12832 bytes)
+[2026-03-12 16:24:37]   Injected: MAKUCAP_I.BIN into ch52_g50.cvm (1333 bytes)
+[2026-03-12 16:24:37]   Injected: R01CAP_I.BIN into ch52_g50.cvm (1228 bytes)
+[2026-03-12 16:24:37]   Injected: R01VOCAP_I.BIN into ch52_g50.cvm (393 bytes)
+[2026-03-12 16:24:37]   Injected: R10CAP_I.BIN into ch52_g50.cvm (177 bytes)
+[2026-03-12 16:24:37]   Injected: R11CAP_I.BIN into ch52_g50.cvm (1371 bytes)
+[2026-03-12 16:24:37]   Injected: R11VOCAP_I.BIN into ch52_g50.cvm (1715 bytes)
+[2026-03-12 16:24:37]   Injected: R12CAP_I.BIN into ch52_g50.cvm (2377 bytes)
+[2026-03-12 16:24:37]   Injected: R12VOCAP_I.BIN into ch52_g50.cvm (712 bytes)
+[2026-03-12 16:24:37]   Injected: R1SYCAP_I.BIN into ch52_g50.cvm (2870 bytes)
+[2026-03-12 16:24:37]   Injected: R20CAP_I.BIN into ch52_g50.cvm (203 bytes)
+[2026-03-12 16:24:37]   Injected: R21CAP_I.BIN into ch52_g50.cvm (740 bytes)
+[2026-03-12 16:24:37]   Injected: R21VOCAP_I.BIN into ch52_g50.cvm (851 bytes)
+[2026-03-12 16:24:37]   Injected: R22CAP_I.BIN into ch52_g50.cvm (763 bytes)
+[2026-03-12 16:24:37]   Injected: R22VOCAP_I.BIN into ch52_g50.cvm (1144 bytes)
+[2026-03-12 16:24:37]   Injected: R23CAP_I.BIN into ch52_g50.cvm (901 bytes)
+[2026-03-12 16:24:37]   Injected: R23VOCAP_I.BIN into ch52_g50.cvm (1274 bytes)
+[2026-03-12 16:24:37]   Injected: R2SYCAP_I.BIN into ch52_g50.cvm (4021 bytes)
+[2026-03-12 16:24:37]   Injected: R30CAP_I.BIN into ch52_g50.cvm (314 bytes)
+[2026-03-12 16:24:37]   Injected: R31CAP_I.BIN into ch52_g50.cvm (1162 bytes)
+[2026-03-12 16:24:37]   Injected: R31VOCAP_I.BIN into ch52_g50.cvm (1384 bytes)
+[2026-03-12 16:24:37]   Injected: R3SYCAP_I.BIN into ch52_g50.cvm (1438 bytes)
+[2026-03-12 16:24:37]   Injected: R40CAP_I.BIN into ch52_g50.cvm (341 bytes)
+[2026-03-12 16:24:37]   Injected: R41CAP_I.BIN into ch52_g50.cvm (294 bytes)
+[2026-03-12 16:24:37]   Injected: R41VOCAP_I.BIN into ch52_g50.cvm (455 bytes)
+[2026-03-12 16:24:37]   Injected: R42CAP_I.BIN into ch52_g50.cvm (1310 bytes)
+[2026-03-12 16:24:37]   Injected: R42VOCAP_I.BIN into ch52_g50.cvm (825 bytes)
+[2026-03-12 16:24:37]   Injected: R43CAP_I.BIN into ch52_g50.cvm (797 bytes)
+[2026-03-12 16:24:37]   Injected: R43VOCAP_I.BIN into ch52_g50.cvm (1469 bytes)
+[2026-03-12 16:24:37]   Injected: R44CAP_I.BIN into ch52_g50.cvm (123 bytes)
+[2026-03-12 16:24:37]   Injected: R44VOCAP_I.BIN into ch52_g50.cvm (348 bytes)
+[2026-03-12 16:24:37]   Injected: R4SYCAP_I.BIN into ch52_g50.cvm (3616 bytes)
+[2026-03-12 16:24:37]   Injected: R50CAP_I.BIN into ch52_g50.cvm (44 bytes)
+[2026-03-12 16:24:37]   Injected: R51CAP_I.BIN into ch52_g50.cvm (287 bytes)
+[2026-03-12 16:24:37]   Injected: R51VOCAP_I.BIN into ch52_g50.cvm (557 bytes)
+[2026-03-12 16:24:37]   Injected: R52CAP_I.BIN into ch52_g50.cvm (436 bytes)
+[2026-03-12 16:24:37]   Injected: R52VOCAP_I.BIN into ch52_g50.cvm (1437 bytes)
+[2026-03-12 16:24:37]   Injected: R5SYCAP_I.BIN into ch52_g50.cvm (2107 bytes)
+[2026-03-12 16:24:37]   Injected: R60CAP_I.BIN into ch52_g50.cvm (458 bytes)
+[2026-03-12 16:24:37]   Injected: R61CAP_I.BIN into ch52_g50.cvm (762 bytes)
+[2026-03-12 16:24:37]   Injected: R61VOCAP_I.BIN into ch52_g50.cvm (1620 bytes)
+[2026-03-12 16:24:37]   Injected: R62CAP_I.BIN into ch52_g50.cvm (1107 bytes)
+[2026-03-12 16:24:37]   Injected: R62MUCAP_I.BIN into ch52_g50.cvm (648 bytes)
+[2026-03-12 16:24:37]   Injected: R62VOCAP_I.BIN into ch52_g50.cvm (2581 bytes)
+[2026-03-12 16:24:37]   Injected: R6SYCAP_I.BIN into ch52_g50.cvm (270 bytes)
+[2026-03-12 16:24:37]   Injected: TITCAP_I.BIN into ch52_g50.cvm (3810 bytes)
+[2026-03-12 16:24:37]   Injected: WARNCAPI.BIN into ch52_g50.cvm (2087 bytes)
+[2026-03-12 16:24:37] INJECT: Complete. 94 files injected.

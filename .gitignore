@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+
+# Backups dos CVMs originais (muito pesados)
+backup/
+
+# Arquivos compilados (gerados pelo build)
+build/
+
+# Arquivos para UltraISO (gerados pelo prepare_ultraiso)
+iso_files/
+
+# ISOs
+*.iso
+*.ISO
+
+# Logs pessoais
+log pcsx2.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Text dump (pode ser regenerado)
+text_dump.txt
+tools/text_dump.txt
