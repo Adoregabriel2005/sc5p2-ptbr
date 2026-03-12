@@ -6,7 +6,11 @@
 
 Tradução para **Português Brasileiro** do Space Channel 5 Part 2 (PS2 PAL Europe).
 
-## Sobre
+## O Jogo
+
+**Space Channel 5 Part 2** é um jogo musical de ritmo desenvolvido pela **United Game Artists** e publicado pela **SEGA** em 2002. Lançado originalmente para Dreamcast (apenas no Japão) e PlayStation 2 (mundial), o jogo segue a repórter **Ulala** do canal espacial 5, que precisa salvar a galáxia dançando e derrotando inimigos ao ritmo da música. Um grupo misterioso chamado Rhythm Rogues está forçando pessoas a dançar contra a vontade, e cabe a Ulala deter seus planos usando o poder da dança. O jogo nunca recebeu tradução para português.
+
+## Sobre o Projeto
 
 Este projeto traduz os textos do jogo de Italiano para Português Brasileiro, substituindo os arquivos `_I` (Italiano) dentro dos containers CVM do jogo. Apenas os textos armazenados em arquivos binários (DGCP) foram extraídos e traduzidos — textos que fazem parte de texturas/imagens ainda não foram abordados.
 
