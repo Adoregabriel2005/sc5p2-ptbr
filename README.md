@@ -59,12 +59,6 @@ python tools/translate_toolkit.py inject
 python tools/prepare_ultraiso.py
 ```
 
-## Fluxo Visual do Projeto
-
-<div align="center">
-	<img src="docs/fluxo_projeto_sc5p2.png" alt="Fluxo do Projeto Space Channel 5 PT-BR" width="420"/>
-</div>
-
 **Como funciona:**
 - A ISO original é o ponto de partida.
 - Os textos e texturas são extraídos e editados usando as ferramentas do projeto.
